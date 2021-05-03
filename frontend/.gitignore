@@ -1,0 +1,4 @@
+node_modules/
+dist/
+
+src/server/db/test-db-data.json
