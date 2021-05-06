@@ -1,5 +1,7 @@
 .idea/
-backend/node_modules
-backend/.cache
-backend/.next
+website/node_modules
+website/.cache
+website/.next
 tabs
+machine-learning/datasets
+machine-learning/.idea
