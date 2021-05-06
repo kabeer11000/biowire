@@ -5,3 +5,5 @@ website/.next
 tabs
 machine-learning/datasets
 machine-learning/.idea
+scraper/node_modules
+frontend/node_modules
