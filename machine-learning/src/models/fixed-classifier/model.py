@@ -1,6 +1,6 @@
 from tensorflow import keras
 from tensorflow.keras import layers
-from .preprocess import get_data
+# from .preprocess import get_data
 
 
 import os
@@ -25,6 +25,6 @@ slow_tokenizer.save_pretrained(save_path)
 # Load the fast tokenizer from saved file
 tokenizer = BertWordPieceTokenizer("bert_base_uncased/vocab.txt", lowercase=True)
 
-def Model():
-    get_data()
+# def Model():
+    # get_data()
 

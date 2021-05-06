@@ -1,5 +1,6 @@
 import {Router} from 'express';
 import {addOneUser, deleteOneUser, getAllUsers, updateOneUser} from './Users';
+import scraperRoutes from "./Scraper";
 
 
 // User-route
@@ -13,4 +14,5 @@ userRouter.delete('/delete/:id', deleteOneUser);
 // Export the base-router
 const baseRouter = Router();
 baseRouter.use('/users', userRouter);
+baseRouter.use('/scrapers', scraperRoutes)
 export default baseRouter;

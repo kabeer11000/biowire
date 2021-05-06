@@ -21,6 +21,7 @@ const {BAD_REQUEST} = StatusCodes;
 app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 app.use(cookieParser());
+app.set("json spaces", 2)
 
 // Show routes called in console during development
 if (process.env.NODE_ENV === 'development') {
