@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="195" height="75" viewBox="0 0 195 75">
+  <defs>
+    <filter id="Rectangle_174" x="0" y="0" width="195" height="75" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_176" data-name="Rectangle 176" width="25" height="25" transform="translate(768 3701)" fill="#ce1212"/>
+    </clipPath>
+  </defs>
+  <g id="Proposed" transform="translate(-832 -3681)">
+    <g transform="matrix(1, 0, 0, 1, 832, 3681)" filter="url(#Rectangle_174)">
+      <g id="Rectangle_174-2" data-name="Rectangle 174" transform="translate(9 6)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="177" height="57" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="176" height="56" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Proposed-2" data-name="Proposed" transform="translate(900 3722)" font-size="18" font-family="LibreFranklinRoman-SemiBold, Libre Franklin" font-weight="600"><tspan x="0" y="0">Proposed</tspan></text>
+    <g id="Mask_Group_15" data-name="Mask Group 15" transform="translate(96 2)" clip-path="url(#clip-path)">
+      <g id="proposed-3" data-name="proposed" transform="translate(768 3701)">
+        <path id="Path_676" data-name="Path 676" d="M0,0H25V25H0Z" fill="none"/>
+        <path id="Path_677" data-name="Path 677" d="M23.958,12.5,21.417,9.6l.354-3.833-3.76-.854L16.042,1.6,12.5,3.125,8.958,1.6,6.99,4.917l-3.76.844.354,3.833L1.042,12.5l2.542,2.9L3.229,19.24l3.76.854,1.969,3.313L12.5,21.875,16.042,23.4l1.969-3.312,3.76-.854L21.417,15.4ZM13.542,17.708H11.458V15.625h2.083Zm0-4.167H11.458V7.292h2.083Z" fill="#ce1212"/>
+      </g>
+    </g>
+  </g>
+</svg>

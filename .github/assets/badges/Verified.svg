@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="195" height="75" viewBox="0 0 195 75">
+  <defs>
+    <filter id="Rectangle_179" x="0" y="0" width="195" height="75" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_177" data-name="Rectangle 177" width="25" height="25" transform="translate(787 3821)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Verified" transform="translate(-832 -3764)">
+    <g transform="matrix(1, 0, 0, 1, 832, 3764)" filter="url(#Rectangle_179)">
+      <g id="Rectangle_179-2" data-name="Rectangle 179" transform="translate(9 6)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="177" height="57" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="176" height="56" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Verified-2" data-name="Verified" transform="translate(900 3805)" font-size="18" font-family="LibreFranklinRoman-SemiBold, Libre Franklin" font-weight="600"><tspan x="0" y="0">Verified</tspan></text>
+    <g id="Mask_Group_16" data-name="Mask Group 16" transform="translate(77 -35)" clip-path="url(#clip-path)">
+      <g id="verified_black_24dp" transform="translate(787 3821)">
+        <g id="Group_82" data-name="Group 82">
+          <rect id="Rectangle_178" data-name="Rectangle 178" width="25" height="25" fill="none"/>
+        </g>
+        <g id="Group_83" data-name="Group 83">
+          <path id="Path_678" data-name="Path 678" d="M23.958,12.5,21.417,9.594l.354-3.844L18.01,4.9,16.042,1.563,12.5,3.083,8.958,1.563,6.99,4.885l-3.76.844.354,3.854L1.042,12.5l2.542,2.906L3.229,19.26l3.76.854,1.969,3.323L12.5,21.906l3.542,1.521L18.01,20.1l3.76-.854-.354-3.844ZM10.51,17.417,6.552,13.448l1.542-1.542,2.417,2.427L16.6,8.219,18.146,9.76Z" fill="#2db247"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
