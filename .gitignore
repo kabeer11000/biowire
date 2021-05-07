@@ -7,3 +7,7 @@ machine-learning/datasets
 machine-learning/.idea
 scraper/node_modules
 frontend/node_modules
+scraper/datasets
+scraper/.env
+frontend/.env
+machine-learning/.env
