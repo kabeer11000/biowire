@@ -85,6 +85,9 @@
       ],
       "@server": [
         "src/Server"
+      ],
+      "@scrapers/*": [
+        "src/scrapers/*"
       ]
     }
   },

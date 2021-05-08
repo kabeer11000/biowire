@@ -6,8 +6,9 @@ tabs
 machine-learning/datasets
 machine-learning/.idea
 scraper/node_modules
-frontend/node_modules
 scraper/datasets
 scraper/.env
-frontend/.env
+website/.env
 machine-learning/.env
+scraper/dist
+scraper/src/pre-start/env
